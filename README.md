@@ -34,7 +34,7 @@ Please review the [LICENSE](LICENSE) file located in the repo.
 The WP Always SSL plugin was written by Aidan McArthur.
 
 ## Support
-For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://wwww.jointbyte.com/](http://www.jointbyte.com/)
+For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
 
 ## Copyright
 Copyright &copy; 2018 Yours Ltd.
