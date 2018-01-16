@@ -1,5 +1,5 @@
 # WP Always SSL
-[WordPress](https://wordpress.org) plugin designed to force SSL in the frontend and admin panel.
+[WordPress](https://wordpress.org) plugin designed to force SSL in the admin panel.
 
 ## Why?
 [WordPress](https://wordpress.org) lacks a setting to force SSL for the admin panel.
@@ -12,7 +12,7 @@ The WP Always SSL plugin includes the following files:
 * [LICENSE](LICENSE) - The license file.
 
 ## Features
-* Forces SSL in the frontend and admin panel.
+* Forces SSL in the admin panel.
 
 ## Installation
 The WP Always SSL plugin contents should be put in the [WordPress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `wp-always-ssl`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
