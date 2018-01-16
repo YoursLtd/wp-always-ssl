@@ -1,6 +1,9 @@
 # WP Always SSL
 [WordPress](https://wordpress.org) plugin designed to force SSL in the frontend and admin panel.
 
+## Why?
+[WordPress](https://wordpress.org) lacks a setting to force SSL for the admin panel.
+
 ## Contents
 
 The WP Always SSL plugin includes the following files:
