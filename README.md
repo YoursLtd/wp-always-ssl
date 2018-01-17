@@ -1,4 +1,4 @@
-# WP Always SSL
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)# WP Always SSL
 [WordPress](https://wordpress.org) plugin designed to force SSL in the admin panel.
 
 ## Why?
@@ -42,4 +42,4 @@ For commercial support and consultation, please visit our website [http://yoursl
 ## Copyright
 Copyright &copy; 2018 yours! Ltd
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)](http://forthebadge.com)[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)[![forthebadge](http://forthebadge.com/images/badges/certified-steve-bruhle.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/certified-steve-bruhle.svg)](http://forthebadge.com)
