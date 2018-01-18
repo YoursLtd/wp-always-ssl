@@ -36,7 +36,7 @@ Please review the [LICENSE](LICENSE) file located in the repo.
 ## Credits
 The WP Always SSL plugin was written by Aidan McArthur.
 
-## Support [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)]
+## Support [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
 [Join our Discord server](https://discord.gg/wkMbsn7) to access our community-based support. For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
 
 ## Copyright
