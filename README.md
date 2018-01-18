@@ -20,7 +20,7 @@ The WP Always SSL plugin contents should be put in the [WordPress plugins](https
 ## Removal
 To disable and remove the WP Always SSL plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `wp-always-ssl` directory and all of its contents.
 
-## Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+## Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://help.github.com/articles/creating-a-pull-request/)
 Please feel free to contribute by submitting pull requests for bug fixes and improvements. Thanks for your support!
 
 ## Changes
