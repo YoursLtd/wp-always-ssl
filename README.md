@@ -30,13 +30,13 @@ Please feel free to contribute by submitting pull requests for bug fixes and imp
 | ------------- | ------------- | ------------- |
 | **Initial release**  | **Release**  | [Download v1.0](https://github.com/YoursLtd/wp-always-ssl/releases/tag/v1.0) |
 
-## License [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+## License [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](LICENSE)
 Please review the [LICENSE](LICENSE) file located in the repo.
 
 ## Credits
 The WP Always SSL plugin was written by Aidan McArthur.
 
-## Support [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
+## Support [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/wkMbsn7)
 [Join our Discord server](https://discord.gg/wkMbsn7) to access our community-based support. For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
 
 ## Copyright
